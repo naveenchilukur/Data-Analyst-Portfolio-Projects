@@ -78,6 +78,6 @@ Took a raw dataset from ingestion → cleaning → transformation → analysis �
 
 ## Contact
 
-- 💼 LinkedIn: [your-linkedin-url]
-- 📧 Email: your-email@example.com
-- 🐙 GitHub: [your-github-url]
+- 💼 LinkedIn: https://www.linkedin.com/in/naveenchilukuri30/
+- 📧 Email: chilukurinaveen2023@gmail.com
+- 🐙 GitHub: https://github.com/naveenchilukur/Data-Analyst-Portfolio-Projects
