@@ -27,7 +27,7 @@ Welcome to my Data Analytics Portfolio! This repository showcases my skills in d
 
 ## About Me
 
-Aspiring Data Analyst skilled in Excel, SQL, Python, and Power BI. Passionate about turning raw data into actionable insights. Currently building hands-on projects to strengthen real-world analytical skills.
+Data Analyst with 2 years of experience in Excel, SQL, Python, and Power BI. Passionate about turning raw data into actionable insights and building dashboards that drive business decisions.
 
 ---
 
